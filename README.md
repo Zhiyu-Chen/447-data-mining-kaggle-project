@@ -12,7 +12,7 @@ https://inclass.kaggle.com/c/loyal-customer-prediction
 
 # Questions
 
-1. what is the ratio of positive and negative instances.
+## 1. what is the ratio of positive and negative instances.
 
 positive: 7885
 negative: 122479
@@ -21,28 +21,28 @@ ratio = 15
 
 
 
-2. Statistics
+## 2. Statistics
 
-/home/zhc415/myspace/447/datasets/train_label.csv:                              
+train_label.csv:                              
         # of users:      106031  # of merchants:        1992
 
-/home/zhc415/myspace/447/datasets/test_label.csv:
+test_label.csv:
         # of users:      106031  # of merchants:        1991
 
-/home/zhc415/myspace/447/datasets/user_log.csv:
+user_log.csv:
         # of users:      212062
         # of items:      916773
         # of categories:         1581
         # of merchants:  4995
         # of brands:     8161
 
-/home/zhc415/myspace/447/datasets/user_info.csv:
+user_info.csv:
         # of users:      212062
 
-/home/zhc415/myspace/447/datasets/sample_submission.csv:
+sample_submission.csv:
         # of users:      106031  # of merchants:        1991
 
-time range:
+date range:
 
 511 - 1112
 
@@ -54,7 +54,7 @@ time range:
 * Does the data include crawlers ?
 
 
-2. Missing values ? (all 0)
+* Missing values ? (all 0)
 
 # How to manage features
 
