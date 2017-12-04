@@ -1,0 +1,22 @@
+/home/zhc415/myspace/447/datasets/train_label.csv:
+        # of users:      106031  # of merchants:        1992
+/home/zhc415/myspace/447/datasets/test_label.csv:
+        # of users:      106031  # of merchants:        1991
+/home/zhc415/myspace/447/datasets/user_log.csv:
+        # of users:      212062
+        # of items:      916773
+        # of categories:         1581
+        # of merchants:  4995
+        # of brands:     8161
+/home/zhc415/myspace/447/datasets/user_info.csv:
+        # of users:      212062
+/home/zhc415/myspace/447/datasets/sample_submission.csv:
+        # of users:      106031  # of merchants:        1991
+
+
+	Training set	Testing set	Submission sample	User log	User info
+# of brand				8161	
+# of categories				1581	
+# of users	106031	106031	106031	212062	212062
+# of merchants	1992	1991	1991	4995	
+# of items				916773	
